@@ -1,0 +1,5 @@
+{
+  "1":{"brand":"Volvo","year":"2018","km":100,"color":"red"},
+  "2":{"brand":"Mercedes","year":"2010","km":10000,"color":"black"},
+  "3":{"brand":"Audi","year":"2018","km":1000,"color":"green"},
+  "4":{"brand":"lada","year":"1880","km":"1","color":"white"}}
